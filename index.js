@@ -1,3 +1,3 @@
-const PieDom = require('./lib');
+const PieDom = require('./dist');
 
 module.exports = PieDom;
