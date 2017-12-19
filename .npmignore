@@ -2,3 +2,4 @@
 /webpack/
 /lib/
 .babelrc
+/test/
